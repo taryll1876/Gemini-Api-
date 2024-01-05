@@ -1,0 +1,18 @@
+adPersonalizationApp/
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── AdDisplay.js
+│   │   │   └── ...
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── ...
+│   └── package.json
+│
+├── backend/
+│   ├── server.js
+│   ├── kmeans_clustering.py
+│   └── package.json
+│
+└── package.json
